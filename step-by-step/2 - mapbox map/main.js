@@ -1,0 +1,1 @@
+var map = L.mapbox.map('map', 'franksvalli.i9ic5111').setView([0, 0], 1);
